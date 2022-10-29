@@ -57,7 +57,7 @@ To contribute with this repository please get in touch with any member of the de
 
 ## Questions
 
-Please, feel free to get in touch with me at any member of the development team to discuss any inquiries or suggestions for the project. We will be happy to connect with you!
+Please, feel free to get in touch with any member of the team to discuss any inquiries or suggestions for the project. We will be happy to connect with you!
 ###### [Back to Index](#Table-of-Contents)
 
 
